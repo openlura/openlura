@@ -20,7 +20,7 @@
 Нужен любой статический сервер: ES-модули не грузятся с `file://`.
 
 ```bash
-git clone <адрес-репозитория> openlura
+git clone https://github.com/openlura/openlura.git openlura
 cd openlura
 python -m http.server 8000
 ```
